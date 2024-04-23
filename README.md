@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G-first-t
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning UDSM 
-- 💞️ I’m looking to collaborate on computer science issues 
+- 💞️ I’m looking to collaborate on software engineering, mobile development and web design 
 - 📫
 
 <!---
