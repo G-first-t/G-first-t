@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Gregory Robert
 <br>-👨‍💻 Software Engineer | Full-Stack Developer | Tech Enthusiast<br>-💡 Passionate about creating innovative tech solutions<br>-🌱 Always learning, always improving
 
 
